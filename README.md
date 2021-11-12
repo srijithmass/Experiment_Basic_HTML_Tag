@@ -14,6 +14,17 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-*Paste your code here*
+~~~
+<!DOCTYPE HTML>
+<html>
+<body>
+<h1>Name:SRIJITH R</h1>
+<h2>Reference Number: 21004191</h2>
+<h3>Dept:Artificial Intelligence and Machine Learning</h3>
+</body>
+</html>
+~~~
 # OUPUT
-*OUTPUT*
+Name: SRIJITH R
+Reference Number: 21004191
+Dept: Artificial Intelligence And Machine Learning
